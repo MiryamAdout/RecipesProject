@@ -1,0 +1,33 @@
+form{
+    margin: auto;
+    
+    }
+    .btn{
+        margin-left: 1%!important;
+    }
+    .errorText{
+        color:purple;
+    }
+    .input-group-text{
+        width: 16%;
+    }
+    .form-control{
+       width:  -3%!important;
+    }
+    h1{
+    margin-left: 1115%;
+    margin-right: 22%;
+    }
+    input{
+        width:  -3%!important;
+        margin-right: 62%;
+    }
+    body{
+        background-image: url("https://d3m9l0v76dty0.cloudfront.net/system/photos/4070292/show/093b7d06078b5d6865c21864226b4b14.jpg");
+        font-size: 100%;
+        margin: auto;
+    }
+    /* .btnFinish{
+        background-color:purple ;
+    }
+     */

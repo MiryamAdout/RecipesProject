@@ -1,0 +1,239 @@
+[
+    {
+        "userID": "1234",
+        "name": "qwe",
+        "password": "Ye6618",
+        "email": "",
+        "country": "h",
+        "telephone": "02",
+        "status": "manager"
+    },
+    {
+        "userID": "1234",
+        "name": "Yaffi",
+        "password": "6618Ye",
+        "email": "",
+        "country": "h",
+        "telephone": "02",
+        "status": "user"
+    },
+    {
+        "userID": "2345",
+        "name": "Miryam",
+        "password": "",
+        "email": "",
+        "country": "",
+        "telephone": "",
+        "status": "manager"
+    },
+    {
+        "name": "יפיי",
+        "password": "y89678Af3",
+        "tel": null,
+        "email": "y0548406618@gmail.com",
+        "status": "guest"
+    },
+    {
+        "name": "yaellllllll",
+        "password": "5cfffffAAAA",
+        "tel": "2345467890",
+        "email": "sdgvhbnm@gmail.com"
+    },
+    {
+        "name": "uuuu",
+        "password": "AAAAAsss333",
+        "tel": "356789",
+        "email": "hh@gmail.com"
+    },
+    {
+        "name": "ghjklk",
+        "password": "AAAAsss333",
+        "tel": "4657890-",
+        "email": "n@gmail.com"
+    },
+    {
+        "name": "תמר הכלה",
+        "password": "vhg456As",
+        "tel": null,
+        "email": "5713133@gmail.com"
+    },
+    {
+        "name": "מריום",
+        "password": "Ma123456",
+        "tel": null,
+        "email": "5713133@gmail.com"
+    },
+    {
+        "name": "vdsvbs",
+        "password": "Advdfdv",
+        "city": "qwe",
+        "tel": "42324",
+        "email": "dad"
+    },
+    {
+        "name": "gdsgsdf",
+        "password": "fdsgfsS",
+        "city": null,
+        "tel": null,
+        "email": null
+    },
+    {
+        "name": "hfgd",
+        "password": "Fgdfgfdgd",
+        "city": null,
+        "tel": null,
+        "email": null
+    },
+    {
+        "name": "מרים פרוז",
+        "password": "123ASDשדג",
+        "city": "בני ברק",
+        "tel": "0546033564313",
+        "email": "dbakk@fjlkcdg;.com"
+    },
+    {
+        "name": "Yossi",
+        "password": "123ABc",
+        "city": null,
+        "tel": null,
+        "email": null
+    },
+    {
+        "name": "eee",
+        "password": "45646Sgfh",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "rytry",
+        "password": "Addtdtryr65767",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "cvbnm",
+        "password": "vhgcghWt",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "efrat",
+        "password": "AAssd333",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "shosi",
+        "password": "cfAA22222",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "yael",
+        "password": "fffAA222",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "ddd",
+        "password": "ddAA222",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "bhvu",
+        "password": "Asr65",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "ii",
+        "password": "89889nnAAff",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "מרים",
+        "password": "Q'123",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "elish",
+        "password": "As123",
+        "city": null,
+        "tel": null,
+        "email": null
+    },
+    {
+        "name": "tami",
+        "password": "78AAsss",
+        "city": null,
+        "tel": null,
+        "email": null
+    },
+    {
+        "name": "eliezer",
+        "password": "AAss2222",
+        "city": null,
+        "tel": null,
+        "email": null
+    },
+    {
+        "name": "dani",
+        "password": "ssAA111",
+        "city": null,
+        "tel": null,
+        "email": null
+    },
+    {
+        "name": "rivki",
+        "password": "ddA22",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "ruti",
+        "password": "aaaAAA222",
+        "city": null,
+        "tel": null,
+        "email": null,
+        "status": null
+    },
+    {
+        "name": "jjj",
+        "password": "jjj77AA",
+        "city": null,
+        "tel": null,
+        "email": null
+    },
+    {
+        "name": "hhhhnnn",
+        "password": "bbb66AA",
+        "city": null,
+        "tel": null,
+        "email": null
+    }
+]

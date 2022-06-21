@@ -1,0 +1,19 @@
+.allCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+direction: rtl;
+}
+.inp{
+    width: 12%;
+    height: 1333%!important;
+}
+.cartBtn{
+    margin-left: -1550%!important;
+    margin-top: 1%!important;
+}
+#deleteProdButton{
+direction: ltr;
+color:purple ;
+border-color: purple;
+}
